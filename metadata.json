@@ -1,0 +1,6 @@
+{
+  "name": "John Gaius Portfolio",
+  "description": "An interactive, visually elegant, and high-fidelity personal portfolio hero section for John Gaius, featuring real-time canvas simulations, typewriter animations, and elegant interactive contact and project overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
